@@ -6,8 +6,12 @@
 <p align = 'center'> 
   <a href = "https://t.me/joinchat/@Roza_Karapetyan">
     <img src = "https://img.shields.io/badge/Telegram-8A2BE2?sytle=for-the-badge&logo=telegram&logoColor=white"/>
-</p>
-  
+  </a>
+  <p align = 'center'>
+    тел: <a href=''>+7 963 971 49 89</a>
+  <p align = 'center'>
+    тел: <a href='mailto:rosakarapetian@gmail.com'>rosakarapetian@gmal.com</a>
+  </p>
 
 https://img.shields.io/badge/just%20the%20message-8A2BE2
 <h3>Навыки и технологии</h3>
