@@ -4,7 +4,7 @@
 Привет меня зовут Роза, я начинающий тестровщик.
 В этом репозитории вы можете найти из моих проектов, выполненных во время обучения и практики.
 <p align = 'center'> 
-  <a href = "https://web.telegram.org/k/#6057261617">
+  <a href = "https://t.me/joinchat/@Roza_Karapetyan">
     <img src = "https://img.shields.io/badge/Telegram-8A2BE2?sytle=for-the-badge&logo=telegram&logoColor=white"/>
 </p>
   
