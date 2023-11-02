@@ -10,9 +10,7 @@
   <p align = 'center'>
     тел: <a href=''>+7 963 971 49 89</a>
   <p align = 'center'>
-    тел: <a href='mailto:rosakarapetian@gmail.com'>rosakarapetian@gmal.com</a>
+    e-mail: <a href='mailto:rosakarapetian@gmail.com'>rosakarapetian@gmal.com</a>
   </p>
-
-https://img.shields.io/badge/just%20the%20message-8A2BE2
 <h3>Навыки и технологии</h3>
 <b>Jira, Confluence qase.io, Sitechco, Chrome DevTools, Slack, Miro, Postman, JSON, Google Docs.
