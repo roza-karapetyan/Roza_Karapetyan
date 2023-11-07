@@ -6,7 +6,7 @@
 В этом репозитории вы можете найти из моих проектов, выполненных во время обучения и практики.
 </p>
   <p align = 'center'> 
-  тел: <a href="tel:+79639714989">+7 (963) 971 49 89</a>
+  тел: <a href='tel:+79639714989' style="color:red>+7 (963) 971 49 89</a>
      e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a>
   <p align = 'center'> 
   <a href = "https://t.me/joinchat/@Roza_Karapetyan">
