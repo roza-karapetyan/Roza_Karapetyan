@@ -49,8 +49,6 @@
       <li>Jira для фиксирования баг-репортов</li>
     </ul>
   </li>
-  <p>Ссылка выполненных работ:<br>
-  <a href ='https://docs.google.com/document/d/16wJJ5FvYL9jSCdgYEEe722SCsMOW1KvM4W6pq-etGsc/edit?usp=sharing'>Проект 1 и 2</a></p><br>
   <li>
     <b>Веб-приложение для учителей (Видеоуроки)</b><br>
     <u>Какие виды тестирования были проведены:</u>
@@ -74,7 +72,9 @@
       <li>Postman для создания коллекции и автоматизации прогона</li>
       <li>Jira для фиксирования баг-репортов</li>
     </ul>
-     <p>Ссылка выполненных работ:<br>
-  <a href = 'https://docs.google.com/document/d/1wwH_YIb7osb8rkG9RfQ8sjRrVSSpFYfZS59eykYwpp4/edit?usp=sharing'>Проект 3</a></p>
   </li>
 </ol>
+<p><h3>Ссылки выполненных работ</h3>
+  <a href ='https://docs.google.com/document/d/16wJJ5FvYL9jSCdgYEEe722SCsMOW1KvM4W6pq-etGsc/edit?usp=sharing'>Проект 1 и 2</a>
+ <a href = 'https://docs.google.com/document/d/1wwH_YIb7osb8rkG9RfQ8sjRrVSSpFYfZS59eykYwpp4/edit?usp=sharing'>Проект 3</a>
+</p>
