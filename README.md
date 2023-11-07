@@ -11,7 +11,7 @@
   тел: <a href='tel:+79639714989'>+7(963) 971-49-89</a> 
      e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a> </p>
     <p align = 'center'>
-  <a href = ""https://web.telegram.org/@Roza_Karapetyan">
+  <a href = "https://telegram.org/@Roza_Karapetyan">
     <img src = "https://img.shields.io/badge/Telegram-blue?sytle=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
     </p>
