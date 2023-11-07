@@ -9,7 +9,7 @@
 </p>
   <p align = 'center'> 
   тел: <a href='tel:+79639714989'>+7(963) 971-49-89</a> 
-     e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a> </p>
+     📫 e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a> </p>
     <p align = 'center'>
   <a href = "https://t.me/@Roza_Karapetyan">
     <img src = "https://img.shields.io/badge/Telegram-blue?sytle=for-the-badge&logo=telegram&logoColor=white"/>
@@ -95,4 +95,9 @@
     <li>Выполнила 30+ проектов</li>
   </ul>
 </ol>
+</div>
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/romankh3/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   </a>
 </div>
