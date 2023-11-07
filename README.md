@@ -1,18 +1,20 @@
 # Роза Карапетян
-<h1>Портфолио: Инженер по тесированию </h1>
-<h3>Обо мне </h3>
-<p>
-Привет меня зовут Роза, я начинающий тестровщик.
+<div>
+  <h1>Портфолио: Инженер по тесированию </h1>
+</div>
+<div>
+  <h3>Обо мне </h3>
+<p>Привет меня зовут Роза, я начинающий тестровщик.
 В этом репозитории вы можете найти из моих проектов, выполненных во время обучения и практики.
 </p>
-  <p align = 'center'> 
+  </div>
+  <div align = 'center'> 
   тел: <a href='tel:+79639714989'>+7(963) 971-49-89</a> 
-     e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a> </p>
-  <p align = 'center'> 
+     e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a>  
   <a href = "https://t.me/@Roza_Karapetyan">
     <img src = "https://img.shields.io/badge/Telegram-blue?sytle=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  </p>
+  </div>
 <h3>Навыки и технологии</h3>
 <b>Jira, Confluence qase.io, Sitechco, Chrome DevTools, Slack, Miro, Postman, JSON, Google Docs.</b>
 <h3>Проекты</h3>
