@@ -17,7 +17,7 @@
     </p>
   </div>
   <div>
-<h3>Навыки и технологии</h3>
+<h3>⚒ Навыки и технологии</h3>
 <b>Jira, Confluence qase.io, Sitechco, Chrome DevTools, Slack, Miro, Postman, JSON, Google Docs.</b>
     </div>
     <div>
