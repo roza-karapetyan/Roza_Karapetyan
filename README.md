@@ -75,6 +75,6 @@
   </li>
 </ol>
 <p><h3>Ссылки выполненных работ</h3>
-  <a href ='https://docs.google.com/document/d/16wJJ5FvYL9jSCdgYEEe722SCsMOW1KvM4W6pq-etGsc/edit?usp=sharing'>Проект 1 и 2</a>
+  <a href ='https://docs.google.com/document/d/16wJJ5FvYL9jSCdgYEEe722SCsMOW1KvM4W6pq-etGsc/edit?usp=sharing'>Проект 1 и 2</a> и 
  <a href = 'https://docs.google.com/document/d/1wwH_YIb7osb8rkG9RfQ8sjRrVSSpFYfZS59eykYwpp4/edit?usp=sharing'>Проект 3</a>
 </p>
