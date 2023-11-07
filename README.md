@@ -99,7 +99,7 @@
   </ul>
 </ol>
 </div>
-<div align="center" style="margin: 40px 0">
+<div align="center" style="margin: 40px 0"> 
    <a href="https://github.com/roza-karapetyan/github-profile-views-counter">
        <img width="100px" src="https://komarev.com/ghpvc/?username=roza-karapetyan3&color=DE002D">
    </a>
