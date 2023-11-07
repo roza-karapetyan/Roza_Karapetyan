@@ -15,7 +15,7 @@
     <img src = "https://img.shields.io/badge/Telegram-blue?sytle=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
       <a href="https://wa.me/79639714989">
-    <img src = "https://img.shields.io/badge/green?sytle=for-the-badge&logo=WhatsApp&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/WhatsApp-green?sytle=for-the-badge&logo=WhatsApp&logoColor=white"/>
   </a> 
     </p>
   </div>
