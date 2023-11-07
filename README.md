@@ -17,7 +17,7 @@
 <b>Jira, Confluence qase.io, Sitechco, Chrome DevTools, Slack, Miro, Postman, JSON, Google Docs.
 <h3>Проекты</h3>
 <ol>
-  <li><b>Веб приложения для учителей</b><br>
+  <li><h4><b>Веб приложения для учителей</b></h4><br>
   Какие виды тестирования были проведены:
   <ul>
     <li>тестирование требований</li>
