@@ -14,11 +14,11 @@
   </a>
   </p>
 <h3>Навыки и технологии</h3>
-<b>Jira, Confluence qase.io, Sitechco, Chrome DevTools, Slack, Miro, Postman, JSON, Google Docs.
+<b>Jira, Confluence qase.io, Sitechco, Chrome DevTools, Slack, Miro, Postman, JSON, Google Docs.</b>
 <h3>Проекты</h3>
 <ol>
   <li><b>Веб приложения для учителей</b><br>
-  Какие виды тестирования были проведены:
+  <u>Какие виды тестирования были проведены:</u>
   <ul>
     <li>тестирование требований</li>
     <li>дымовое тестирование</li>
@@ -26,7 +26,7 @@
     <li>регрессионное тестирование</li>
     <li>приёмочное тестирование</li>
   </ul>
-    Какие инструменты были применены:
+    <u>Какие инструменты были применены:</u>
     <ul>
       <li>Miro для создания декомпозиции новой функциональности</li>
       <li>Qase, Sitechko (Checkvist) для написания тестовой документации</li>
