@@ -1,4 +1,4 @@
-# Роза Карапетян
+# Роза Карапетян 
 <div>
   <h1>Портфолио: Инженер по тесированию </h1>
 </div>
@@ -16,6 +16,8 @@
   </a>
       <a href="https://wa.me/79639714989">
     <img src = "https://img.shields.io/badge/WhatsApp-green?sytle=for-the-badge&logo=WhatsApp&logoColor=white"/>
+         <a href="https://drive.google.com/file/d/17LtwAZQvkPjc0E0LKQU0nH8S4v-tmpSO/view?usp=sharing">
+    <img src = "https://img.shields.io/badge/WhatsApp-red?sytle=for-the-badge&logo=Resume&logoColor=white"/>
   </a> 
     </p>
   </div>
