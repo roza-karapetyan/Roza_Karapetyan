@@ -10,7 +10,7 @@
      e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a>
   <p align = 'center'> 
   <a href = "https://t.me/joinchat/@Roza_Karapetyan">
-    <img src = "https://img.shields.io/badge/Telegram-8A2BE2?sytle=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src = "https://img.shields.io/badge/Telegram-blue?sytle=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   </p>
 <h3>Навыки и технологии</h3>
