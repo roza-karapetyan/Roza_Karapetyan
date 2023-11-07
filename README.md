@@ -8,15 +8,15 @@
 В этом репозитории вы можете найти из моих проектов, выполненных во время обучения и практики.
 </p>
   <p align = 'center'> 
-   <a href="https://wa.me/79639714989">
-    <img src = "https://img.shields.io/badge/WhatsApp-green?sytle=for-the-badge&logo=WhatsApp&logoColor=white"/>
-  </a> 
   тел: <a href='tel:+79639714989'>+7(963) 971-49-89</a> 
      e-mail: <a href='mailto:rosakarapetian@gmail.com'> rosakarapetian@gmal.com</a> </p>
     <p align = 'center'>
   <a href="https://telegram.im/Roza_Karapetyan">
     <img src = "https://img.shields.io/badge/Telegram-blue?sytle=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+      <a href="https://wa.me/79639714989">
+    <img src = "https://img.shields.io/badge/logo=WhatsApp&logoColor=white"/>
+  </a> 
     </p>
   </div>
   <div>
